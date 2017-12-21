@@ -1,3 +1,4 @@
+repository: durantschoon/durantschoon.github.io
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-remote-theme
